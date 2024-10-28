@@ -87,3 +87,11 @@ CSCI300,Introduction to Algorithms,CSCI200
   - **insertCourseIntoTree**: Adds a course to the tree.
   - **printCoursesInOrder**: Prints all courses in sorted order.
   - **printCourseInfo**: Searches for and displays information about a specific course.
+
+--------------------------------------------------------------------------------------------
+Reflection
+
+In this course, my projects focused on solving key organizational and retrieval challenges in managing course data for an academic advising program. The primary problem was to effectively structure, sort, and display course information in a way that would be efficient for both storage and access. I analyzing their runtime approached of different to choose the best fit for the task. Understanding data structures is essential because it allows developers to optimize operations like searching, sorting, and inserting data, which is crucial when handling large datasets.
+
+Throughout the project I encountered and overcame several challenges, especially around data organization and tree traversal. Using a structured approach and breaking down each requirement step-by-step allowed me to isolate and address specific roadblocks. This experience has expanded my approach to software design. I also emphasizing the importance of selecting data structures that align with a program's specific needs for efficiency and maintainability. My work on this project has refined my coding style, focusing on writing clean, maintainable code that adheres to best practices. This including modularization and detailed documentation, making the code more readable and easier to modify in the future.
+
